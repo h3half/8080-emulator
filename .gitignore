@@ -1,0 +1,11 @@
+# Ignore ROM
+OriginalFiles/
+invaders
+
+# Ignore debugging/output
+dis.dat
+dump.dat
+output.txt
+
+# Ignore build artifacts
+build/
